@@ -36,8 +36,10 @@ layout: default
             {{ post.date | date: "%B %-d, %Y" }}
           </p>
         </header>
+        <!--removed a | between post. excerpt and strip_html. was getting an error which said:   Liquid Warning: Liquid syntax error (line 36): Expected id but found pipe in "{{ post.excerpt | | strip_html | strip_newlines | truncate: 120 }}" in index.html
+and add   gem 'wdm', '>= 0.1.0' if Gem.win_platform?, but i just removed the pipe-->
         <div class="excerpt">
-          {{ post.excerpt | | strip_html | strip_newlines | truncate: 120 }}
+          {{ post.excerpt | strip_html | strip_newlines | truncate: 120 }}
         </div>
         <a href="{{ post.url | prepend: site.baseurl }}">
           {{ site.theme_settings.str_continue_reading }}
