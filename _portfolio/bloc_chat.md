@@ -2,7 +2,7 @@
 layout: post
 title: New Case Study
 thumbnail-path: "img/blocitoff.png"
-short-description: This will be the new case study I do!
+short-description: Created a chat room application!
 
 ---
 <!--- need to change the picture and thumbnail-path--->
@@ -10,8 +10,6 @@ short-description: This will be the new case study I do!
 
 ## Explanation
 
-## Problem
 
-## Solution
 
 ## Results
