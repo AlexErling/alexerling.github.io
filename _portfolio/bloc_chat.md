@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Case Study
+title: Bloc Chat
 thumbnail-path: "img/blocitoff.png"
 short-description: Created a chat room application!
 

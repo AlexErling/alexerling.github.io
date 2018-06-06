@@ -1,17 +1,17 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://alexerling.com" # the base hostname & protocol for your site
+url: "http://www.alexerling.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   title: Alex Erling # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  description: "Alex Erling's personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Current Bloc Software Engineering Student</h1>
-     <p>Currently in the process of learning HTML, CSS, JavaScript, Ruby on Rails and more.</p>
+     <h1>Software Engineer</h1>
+     <p>HTML, CSS, JavaScript, Ruby on Rails and more.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
