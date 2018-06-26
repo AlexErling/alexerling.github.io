@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Goals for website
-feature-img: "img/sample_feature_img.png"
 ---
 I wanted to discuss some of my goals I have in mind for creating my website. I have a few things on my list that I want to include! There are a few different sections that I am interested in making.
 
